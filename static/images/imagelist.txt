@@ -1,0 +1,52 @@
+
+ balcony.jpg
+ bed1.jpg
+ bed2.jpg
+ bed3.jpg
+ bed4.jpg
+ bed5.jpg
+ bed6.jpg
+ entarance2.jpg
+ enterance1.jpg
+ hall10.jpg
+ hall11.jpg
+ hall12.jpg
+ hall13.jpg
+ hall1.jpg
+ hall2.jpg
+ hall3.jpg
+ hall4.jpg
+ hall5.jpg
+ hall6.jpg
+ hall7.jpg
+ hall8.jpg
+ hall9.jpg
+ imagelist.txt
+ kitchen1.jpg
+ kitchen2.jpg
+ kitchen3.jpg
+ kitchen4.jpg
+ kitchen5.jpg
+ kitchen6.jpg
+ kitchen7.jpg
+ kitchen8.jpg
+ passage1.jpg
+ passage2.jpg
+ passage3.jpg
+ passage4.jpg
+ passage5.jpg
+ passage6.jpg
+ 
+ /home/kubuntu/HomeSell/a10-ramadarshan/public/images
+ 
+    "gatsby-image": "^2.0.37",
+    "gatsby-plugin-manifest": "^2.0.28",
+    "gatsby-plugin-offline": "^2.0.25",
+    "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-sharp": "^2.0.32",
+    "gatsby-source-filesystem": "^2.0.29",
+    "gatsby-transformer-sharp": "^2.1.17",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.0"

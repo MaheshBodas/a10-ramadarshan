@@ -1,6 +1,6 @@
 ---
 title: Home
-has_more_link: true
-more_link_text: Keep reading
+has_more_link: false
+more_link_text: 
 template: home
 ---

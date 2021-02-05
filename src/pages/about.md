@@ -1,16 +1,13 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
+title: Flat details
+subtitle: 
 img_path: images/about.jpg
 template: page
 ---
+Semi-furnished flat in immaculate condition at heart of Dombivli city. 550 Sq. Ft. Built up area, East facing flat. Railway station, Market place 7 minutes walking from property. <P>
+Available for outright sale "in as where is" condition. Clear title property, Nationalized Bank's loan possible.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+>A/10 Ramadarshan Co. Op. Hsg. Socity, Opp. Godrej Show room, Manapada Road, Raghuvir Nagar, Dombivli(E)
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
 *Thank You for reading!*

@@ -1,8 +1,8 @@
 {
     "palette": "yellow",
     "header": {
-        "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
+        "title": "Flat",
+        "tagline": "A/10 Ramadarshan CHS.",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Fjord Logo",
         "background_img": "images/header-bg.jpg",
@@ -17,59 +17,20 @@
                 "label": "About",
                 "url": "/about",
                 "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
+            },            
             {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "github",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": true
-            }
+            
         ]
     },
     "footer": {
         "content": "&copy; Mahesh Bodas. All rights reserved."
     },
-    "title": "Stackbit Fjord Theme"
+    "title": "A/10 Ramadarshan"
 }
