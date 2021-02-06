@@ -9,19 +9,18 @@ form_fields:
     label: Name
     default_value: Your name
     is_required: true
-  - input_type: email
-    name: email
-    label: Email
-    default_value: Your email address
+  - input_type: tel
+    name: tel
+    label: Mobile
+    default_value: Your mobile number
     is_required: true
   - input_type: select
     name: subject
     label: Subject
     default_value: Please select
     options:
-      - Error on the site
-      - Sponsorship
-      - Other
+      - Visit Flat
+      - Purchase Flat
   - input_type: textarea
     name: message
     label: Message
