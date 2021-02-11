@@ -6,6 +6,7 @@ import HeaderAlt from './HeaderAlt';
 import Icon from './Icon';
 import Navigation from './Navigation';
 import Layout from './Layout';
+import HomeSlider from './HomeSlider';
 
 export {
     Branding,
@@ -15,7 +16,8 @@ export {
     HeaderAlt,
     Icon,
     Navigation,
-    Layout
+    Layout,
+    HomeSlider
 };
 
 export default {
@@ -26,5 +28,6 @@ export default {
     HeaderAlt,
     Icon,
     Navigation,
-    Layout
+    Layout,
+    HomeSlider
 };
